@@ -1,0 +1,5 @@
+C:\Users\Donovan\Desktop\Avoider\Avoider\obj\Debug\net8.0\Avoider.csproj.AssemblyReference.cache
+C:\Users\Donovan\Desktop\Avoider\Avoider\obj\Debug\net8.0\Avoider.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Donovan\Desktop\Avoider\Avoider\obj\Debug\net8.0\Avoider.AssemblyInfoInputs.cache
+C:\Users\Donovan\Desktop\Avoider\Avoider\obj\Debug\net8.0\Avoider.AssemblyInfo.cs
+C:\Users\Donovan\Desktop\Avoider\Avoider\obj\Debug\net8.0\Avoider.csproj.CoreCompileInputs.cache

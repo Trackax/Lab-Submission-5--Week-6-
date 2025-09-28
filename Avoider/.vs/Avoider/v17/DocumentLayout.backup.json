@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Donovan\\Desktop\\Avoider\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8160FE3D-B132-488B-940F-4125E7D12F7B}|Avoider\\Avoider.csproj|c:\\users\\donovan\\desktop\\avoider\\avoider\\avoider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8160FE3D-B132-488B-940F-4125E7D12F7B}|Avoider\\Avoider.csproj|solutionrelative:avoider\\avoider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Avoider.cs",
+              "DocumentMoniker": "C:\\Users\\Donovan\\Desktop\\Avoider\\Avoider\\Avoider.cs",
+              "RelativeDocumentMoniker": "Avoider\\Avoider.cs",
+              "ToolTip": "C:\\Users\\Donovan\\Desktop\\Avoider\\Avoider\\Avoider.cs",
+              "RelativeToolTip": "Avoider\\Avoider.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAswEMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T17:20:06.618Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
