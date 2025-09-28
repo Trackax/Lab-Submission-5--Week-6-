@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Donovan\\Desktop\\Lab-Submission-5--Week-6-\\Lab Submission 5 (Week 6)\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CC325CFF-38BA-E10A-00D2-9B4D71BD431F}|Assembly-CSharp.csproj|c:\\users\\donovan\\desktop\\lab-submission-5--week-6-\\lab submission 5 (week 6)\\assets\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CC325CFF-38BA-E10A-00D2-9B4D71BD431F}|Assembly-CSharp.csproj|solutionrelative:assets\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CC325CFF-38BA-E10A-00D2-9B4D71BD431F}|Assembly-CSharp.csproj|c:\\users\\donovan\\desktop\\lab-submission-5--week-6-\\lab submission 5 (week 6)\\assets\\avoider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC325CFF-38BA-E10A-00D2-9B4D71BD431F}|Assembly-CSharp.csproj|solutionrelative:assets\\avoider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "PlayerMovement.cs",
-              "DocumentMoniker": "C:\\Users\\Donovan\\Desktop\\Lab-Submission-5--Week-6-\\Lab Submission 5 (Week 6)\\Assets\\PlayerMovement.cs",
-              "RelativeDocumentMoniker": "Assets\\PlayerMovement.cs",
-              "ToolTip": "C:\\Users\\Donovan\\Desktop\\Lab-Submission-5--Week-6-\\Lab Submission 5 (Week 6)\\Assets\\PlayerMovement.cs",
-              "RelativeToolTip": "Assets\\PlayerMovement.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAqAAAAAAAAAA==",
+              "Title": "Avoider.cs",
+              "DocumentMoniker": "C:\\Users\\Donovan\\Desktop\\Lab-Submission-5--Week-6-\\Lab Submission 5 (Week 6)\\Assets\\Avoider.cs",
+              "RelativeDocumentMoniker": "Assets\\Avoider.cs",
+              "ToolTip": "C:\\Users\\Donovan\\Desktop\\Lab-Submission-5--Week-6-\\Lab Submission 5 (Week 6)\\Assets\\Avoider.cs",
+              "RelativeToolTip": "Assets\\Avoider.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAowDgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-28T15:16:10.02Z",
+              "WhenOpened": "2025-09-28T17:20:31.85Z",
               "EditorCaption": ""
             }
           ]
